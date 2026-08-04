@@ -7,4 +7,12 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
