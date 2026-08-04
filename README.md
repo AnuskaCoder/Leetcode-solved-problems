@@ -6,6 +6,7 @@ Here are the problems which i have solved form leetcode. :)
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
 ## Two Pointers
 |  |
