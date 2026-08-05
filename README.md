@@ -29,4 +29,12 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
