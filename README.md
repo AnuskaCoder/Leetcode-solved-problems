@@ -33,8 +33,14 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0051-n-queens) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
