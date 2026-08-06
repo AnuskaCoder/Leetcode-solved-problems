@@ -34,6 +34,7 @@ Here are the problems which i have solved form leetcode. :)
 | ------- |
 | [0039-combination-sum](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0051-n-queens) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,4 +44,24 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0051-n-queens) |
+## Binary Search
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
