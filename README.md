@@ -9,6 +9,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0007-reverse-integer](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0509-fibonacci-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Here are the problems which i have solved form leetcode. :)
 | ------- |
 | [0125-valid-palindrome](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1768-merge-strings-alternately) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +44,7 @@ Here are the problems which i have solved form leetcode. :)
 | ------- |
 | [0039-combination-sum](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0051-n-queens) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -54,6 +57,7 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,4 +70,8 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
