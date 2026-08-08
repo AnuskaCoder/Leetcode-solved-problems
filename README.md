@@ -17,6 +17,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0125-valid-palindrome](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1768-merge-strings-alternately) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -24,11 +25,13 @@ Here are the problems which i have solved form leetcode. :)
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1768-merge-strings-alternately) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0509-fibonacci-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +67,7 @@ Here are the problems which i have solved form leetcode. :)
 | ------- |
 | [0605-can-place-flowers](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
