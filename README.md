@@ -9,6 +9,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0007-reverse-integer](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -19,6 +20,7 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1768-merge-strings-alternately) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -74,4 +76,12 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
