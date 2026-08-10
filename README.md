@@ -47,6 +47,7 @@ Here are the problems which i have solved form leetcode. :)
 | ------- |
 | [0039-combination-sum](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0051-n-queens) |
+| [0238-product-of-array-except-self](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -82,6 +83,7 @@ Here are the problems which i have solved form leetcode. :)
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Number Theory
 |  |
