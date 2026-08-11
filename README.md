@@ -16,6 +16,7 @@ Here are the problems which i have solved form leetcode. :)
 | ------- |
 | [0125-valid-palindrome](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -48,6 +49,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0039-combination-sum](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0051-n-queens) |
 | [0238-product-of-array-except-self](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
