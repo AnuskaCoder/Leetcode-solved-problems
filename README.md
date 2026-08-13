@@ -20,6 +20,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0283-move-zeroes](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0392-is-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -58,6 +59,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0334-increasing-triplet-subsequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
@@ -89,6 +91,7 @@ Here are the problems which i have solved form leetcode. :)
 ## Sorting
 |  |
 | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -111,4 +114,8 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0334-increasing-triplet-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
