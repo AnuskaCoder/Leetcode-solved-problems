@@ -60,6 +60,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0334-increasing-triplet-subsequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -76,6 +77,7 @@ Here are the problems which i have solved form leetcode. :)
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -90,6 +92,7 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -101,6 +104,7 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Number Theory
 |  |
