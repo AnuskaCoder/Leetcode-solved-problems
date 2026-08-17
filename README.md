@@ -63,6 +63,7 @@ Here are the problems which i have solved form leetcode. :)
 | [1004-max-consecutive-ones-iii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Backtracking
 |  |
@@ -105,6 +106,7 @@ Here are the problems which i have solved form leetcode. :)
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Number Theory
 |  |
