@@ -40,6 +40,7 @@ Here are the problems which i have solved form leetcode. :)
 | ------- |
 | [0392-is-subsequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0509-fibonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0643-maximum-average-subarray-i](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -95,6 +97,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0643-maximum-average-subarray-i](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
