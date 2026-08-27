@@ -34,6 +34,7 @@ Here are the problems which i have solved form leetcode. :)
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/2390-removing-stars-from-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -144,4 +145,12 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
