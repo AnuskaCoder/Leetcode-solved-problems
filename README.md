@@ -159,4 +159,16 @@ Here are the problems which i have solved form leetcode. :)
 | ------- |
 | [0735-asteroid-collision](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/2390-removing-stars-from-a-string) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
