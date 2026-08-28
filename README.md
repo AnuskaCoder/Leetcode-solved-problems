@@ -30,6 +30,7 @@ Here are the problems which i have solved form leetcode. :)
 | [0151-reverse-words-in-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0394-decode-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -47,6 +48,7 @@ Here are the problems which i have solved form leetcode. :)
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -149,6 +151,7 @@ Here are the problems which i have solved form leetcode. :)
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
