@@ -185,4 +185,20 @@ Here are the problems which i have solved form leetcode. :)
 | [0328-odd-even-linked-list](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
