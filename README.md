@@ -189,10 +189,12 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -201,4 +203,5 @@ Here are the problems which i have solved form leetcode. :)
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/AnuskaCoder/Leetcode-solved-problems/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
